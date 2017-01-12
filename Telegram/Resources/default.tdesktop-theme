@@ -23,7 +23,7 @@
 
 windowBg: #ffffff;
 windowFg: #000000;
-windowBgOver: #f1f1f1;
+windowBgOver: #FF0000;
 windowBgRipple: #e5e5e5;
 windowFgOver: windowFg;
 windowSubTextFg: #999999;
